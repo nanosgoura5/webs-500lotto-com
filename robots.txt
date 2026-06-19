@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nanosgoura5.github.io/webs-500lotto-com/sitemap.xml
